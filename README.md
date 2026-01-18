@@ -197,20 +197,6 @@ This work is licensed under the MIT License. See LICENSE file for details.
 
 ---
 
-## 🎯 Submission Status
-
-- [x] Manuscript completed
-- [x] Three rounds of review incorporated
-- [x] All validation completed
-- [x] Supplementary materials prepared
-- [ ] Cover letter finalized
-- [ ] Submitted to Physical Review Letters
-- [ ] Under review
-- [ ] Accepted
-- [ ] Published
-
----
-
 ## 📈 Future Work
 
 1. Extension to other quantum platforms (ion traps, superconducting circuits)
