@@ -1,0 +1,39 @@
+Dear Editor,
+
+We submit for consideration in Physical Review Letters our manuscript titled "Automated Discovery of Photonic Quantum Advantage Scaling Laws."
+
+Photonic quantum computing has achieved remarkable experimental milestones, with recent demonstrations claiming quantum computational advantage. However, precise quantitative understanding of how system performance scales with hardware parameters remains a critical open question. Our work addresses this gap by introducing an automated methodology that discovers explicit scaling laws from simulation data.
+
+We apply Survivorship-Biased Conjecture Generation to 7,560 realistic Gaussian Boson Sampling simulations and discover four quantitative scaling laws with exceptional stability (>0.99). Key findings include: (1) universal photon number degradation F ∝ exp(-0.25N), (2) cumulative loss F ∝ (1-L)^10.5D with the first precise coefficient determination, (3) a novel N·η compensation mechanism showing detector efficiency partially offsets photon losses, and (4) steep detector efficiency power law η^17.3. These laws enable precise resource requirement prediction for achieving quantum advantage and provide actionable guidance for hardware optimization.
+
+We have taken particular care to ensure scientific rigor through three independent validation methods: (1) synthetic data with known ground truth, (2) consistency checks with published experimental parameters from USTC Jiuzhang and Xanadu Borealis, and (3) independent physics-based simulations using different quantum optics models with distinct coefficients. This triple validation approach, combined with transparent error reporting (3-31% error, mean 17% in the quantum advantage regime), provides strong evidence that our laws capture physically meaningful scaling behavior rather than artifacts of our methodology.
+
+We carefully scope our work as predicting resource requirements for quantum advantage rather than proving quantum advantage itself, recognizing that advantage claims require consideration of both fidelity scaling and classical computational hardness. Our discovered laws are immediately testable through systematic parameter variation in existing experimental platforms.
+
+This work represents the first quantitative resource equations for photonic quantum advantage and demonstrates how machine learning methods can extract precise physics from complex quantum systems where analytical solutions remain intractable. The methodology is broadly applicable to other quantum computing platforms including ion traps and superconducting circuits.
+
+We believe this manuscript is well-suited for Physical Review Letters given its: (1) novel quantitative discoveries with broad impact on quantum computing hardware development, (2) rigorous validation across multiple independent approaches, (3) immediate experimental testability, and (4) methodological contribution applicable beyond photonics.
+
+Thank you for considering our manuscript for publication in Physical Review Letters.
+
+Sincerely,
+
+Keenan Williams
+Independent Researcher
+telesis001@icloud.com
+https://github.com/keewillidevnet
+
+---
+
+SUGGESTED REVIEWERS (optional):
+
+[If you want to suggest reviewers, add 3-5 names here with affiliations and emails. Choose experts in:
+- Photonic quantum computing
+- Gaussian Boson Sampling
+- Machine learning for physics
+- Quantum advantage theory]
+
+Example format:
+1. Dr. [Name], [Institution], [email] - Expert in photonic quantum computing
+2. Dr. [Name], [Institution], [email] - Expert in GBS theory
+3. Dr. [Name], [Institution], [email] - Expert in ML for physics discovery
