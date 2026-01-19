@@ -1,5 +1,9 @@
 # Automated Discovery of Photonic Quantum Advantage Scaling Laws
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18294125-blue?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18294125)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+
 **Authors:** Keenan Williams  
 **Institution:** Independent Researcher   
 **Date:** January 18, 2026  
