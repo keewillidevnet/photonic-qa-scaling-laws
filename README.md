@@ -1,10 +1,8 @@
 # Automated Discovery of Photonic Quantum Advantage Scaling Laws
 
 **Authors:** Keenan Williams  
-**Institution:** Independent Researcher  
-**Contact:** telesis001@icloud.com  
+**Institution:** Independent Researcher   
 **Date:** January 18, 2026  
-**Status:** Submitted to Physical Review Letters
 
 ---
 
@@ -155,15 +153,18 @@ log F = -1.44 - 0.20N - 3.11 log(1-η) + 10.51 log(1-L)·D
 
 ## 📝 Citation
 
-If you use this work, please cite:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18294125.svg)](https://doi.org/10.5281/zenodo.18294125)
 
+If you use this work, please cite:
 ```bibtex
-@article{williams2026photonic,
-  title={Automated Discovery of Photonic Quantum Advantage Scaling Laws},
-  author={Williams, Keenan},
-  journal={Physical Review Letters},
-  year={2026},
-  note={Submitted}
+@software{williams2026photonic,
+  author       = {Williams, Keenan},
+  title        = {Automated Discovery of Photonic Quantum Advantage Scaling Laws},
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.18294125},
+  url          = {https://doi.org/10.5281/zenodo.18294125}
 }
 ```
 
@@ -211,7 +212,3 @@ This work is licensed under the MIT License. See LICENSE file for details.
 This work benefited from extensive review and feedback from multiple independent sources, ensuring scientific rigor and precision in claims.
 
 ---
-
-**Last Updated:** January 18, 2026  
-**Version:** 3.0 (Final)  
-**Status:** Ready for submission
